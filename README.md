@@ -46,7 +46,7 @@ This model uses:
 
 ```bash
 # Step 1: Clone the repository
-git clone https://github.com/SahilShiravale/ColorWeave.git
+git clone https://github.com/SahilShiravale/PixelSage.git
 cd ColorWeave
 
 # Step 2: Install dependencies
